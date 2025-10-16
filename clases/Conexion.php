@@ -9,7 +9,7 @@ class Conexion {
             $puerto = "27017";
             $usuario = "backend";
             $password = "backend2025";
-            $BD = "b221190089_crud2";
+            $BD = "b2211900422crud2";
 
             // Cadena de conexión corregida
             $cadenaConexion = "mongodb://$usuario:$password@$servidor:$puerto/$BD?authSource=admin";
